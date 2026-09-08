@@ -4,7 +4,7 @@
 > **Qualcomm Snapdragon AI Lab Build & Present Challenge 2026**  
 > **Author**: Angel Singh | Solo Participant  
 > **Repository**: [https://github.com/angel25bcs10712-stack/ARIA-Nova](https://github.com/angel25bcs10712-stack/ARIA-Nova)  
-> **Original ARIA OpenEnv**: [HuggingFace Space](https://huggingface.co/spaces/angel25bcs10712/ARIA-OpenEnv) | [Original Training Run](https://colab.research.google.com/drive/1tUcoSgjvZsEWfxGIfaUUcNlkapjinzP-?usp=sharing)
+> **Original ARIA OpenEnv**:  [Original Training Run](https://colab.research.google.com/drive/1tUcoSgjvZsEWfxGIfaUUcNlkapjinzP-?usp=sharing)
 
 ---
 

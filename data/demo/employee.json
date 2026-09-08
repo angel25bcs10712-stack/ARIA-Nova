@@ -1,0 +1,12 @@
+{
+  "employee_id": "EMP-8042",
+  "name": "Jordan Vance",
+  "title": "Senior Solutions Architect",
+  "department": "Enterprise Cloud Systems",
+  "direct_manager": "Sarah Lin (Director)",
+  "manager_email": "manager@corp.com",
+  "vp": "Marcus Sterling (VP Enterprise Solutions)",
+  "vp_email": "vp@corp.com",
+  "passport_valid": true,
+  "home_base": "Austin, TX"
+}

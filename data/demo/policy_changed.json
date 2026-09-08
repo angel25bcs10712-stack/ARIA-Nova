@@ -1,0 +1,12 @@
+{
+  "policy_id": "POL-TRAVEL-2026-V2",
+  "version": 2,
+  "title": "Corporate Travel & Expense Policy (Updated)",
+  "international_travel_allowed": true,
+  "required_approval": "vp_approval",
+  "expense_limit_per_diem": 250,
+  "advance_notice_days": 14,
+  "booking_channel": "corporate_portal",
+  "risk_assessment_required": true,
+  "change_effective_date": "2026-09-01"
+}

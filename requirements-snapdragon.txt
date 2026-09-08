@@ -1,0 +1,12 @@
+# ARIA Nova — Snapdragon Windows on ARM (WoA) Environment
+# Target Platform: Snapdragon X Elite / Snapdragon X Plus (ARM64 Windows 11)
+-r requirements.txt
+
+# Qualcomm QNN Execution Provider for ONNX Runtime (Native Windows ARM64)
+# When deploying to a Snapdragon PC, install the matching onnxruntime-qnn wheel:
+# Example: pip install onnxruntime-qnn --extra-index-url https://aihub.qualcomm.com/
+onnxruntime>=1.18.0
+
+# Optional PyTorch & HuggingFace dependencies (when using hybrid CPU/NPU token generation)
+torch>=2.2.0; platform_machine == 'ARM64' or platform_machine == 'AMD64'
+transformers>=4.40.0

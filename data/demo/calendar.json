@@ -1,0 +1,10 @@
+{
+  "timezone": "America/Chicago",
+  "current_week": [
+    {"slot": "Monday 2pm", "event": "Team Sprint Standup", "status": "busy"},
+    {"slot": "Tuesday 10am", "event": "Architecture Review", "status": "busy"},
+    {"slot": "Wednesday 11am", "event": "Open Office Hours", "status": "free"},
+    {"slot": "Thursday 2pm", "event": "International Client Briefing", "status": "free"},
+    {"slot": "Friday 3pm", "event": "Weekly Retrospective", "status": "busy"}
+  ]
+}

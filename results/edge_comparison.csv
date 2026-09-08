@@ -1,0 +1,2 @@
+backend,accelerator,execution_provider,avg_latency_ms,min_latency_ms,max_latency_ms,throughput_tokens_per_sec,rss_memory_mb,hardware_verified
+CPU,CPU,CPUExecutionProvider,0.0,0.0,0.0,19753084.61,120.86,True

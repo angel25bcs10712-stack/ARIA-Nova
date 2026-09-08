@@ -1,0 +1,5 @@
+# ARIA Nova — CPU Development Environment
+-r requirements.txt
+torch>=2.0.0
+transformers>=4.40.0
+onnxruntime>=1.17.0

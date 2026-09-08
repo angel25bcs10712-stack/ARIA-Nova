@@ -1,0 +1,16 @@
+{
+  "available_templates": [
+    {
+      "doc_id": "DOC-701",
+      "name": "international_travel_request",
+      "title": "International Business Travel Authorization Form",
+      "required_fields": ["employee_id", "destination", "dates", "business_justification", "approver_signature"]
+    },
+    {
+      "doc_id": "DOC-702",
+      "name": "expense_policy_v2",
+      "title": "Global Travel Policy Directive V2",
+      "summary": "Mandatory VP approval for all trans-oceanic and cross-border commercial visits."
+    }
+  ]
+}
